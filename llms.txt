@@ -1,0 +1,15 @@
+# Awesome AI Media 中文版
+
+> AI 视频制作与自媒体运营工具精选合集，涵盖一键生成、文生视频、多平台分发、字幕翻译等开源项目。
+
+## 文档
+
+- [工具目录](https://github.com/JuneYaooo/awesome-ai-media-cn/blob/main/README.md): 全部工具分类列表
+- [English Version](https://github.com/JuneYaooo/awesome-ai-media/blob/main/README.md): 英文版合集
+
+## 分类
+
+- [一键视频生成](https://github.com/JuneYaooo/awesome-ai-media-cn#一键视频生成): 输入话题自动生成短视频
+- [AI 文生视频模型](https://github.com/JuneYaooo/awesome-ai-media-cn#ai-文生视频模型): 开源视频生成模型
+- [自媒体运营工具](https://github.com/JuneYaooo/awesome-ai-media-cn#自媒体运营工具): 定时发布与多平台分发
+- [字幕与本地化](https://github.com/JuneYaooo/awesome-ai-media-cn#字幕与本地化): 语音转文字、翻译、配音
