@@ -16,6 +16,9 @@
 - [自媒体运营工具](#自媒体运营工具)
 - [社媒爬虫与竞品分析](#社媒爬虫与竞品分析)
 - [字幕与本地化](#字幕与本地化)
+- [AI 短剧生成](#ai-短剧生成)
+- [AI 视频分析与笔记](#ai-视频分析与笔记)
+- [AI 数字人](#ai-数字人)
 - [编程式视频制作](#编程式视频制作)
 - [视频编辑库](#视频编辑库)
 - [常见问题](#常见问题)
@@ -30,6 +33,11 @@
 | [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | ![](https://img.shields.io/github/stars/FujiwaraChoki/MoneyPrinter?style=flat-square) | 自动化 YouTube Shorts / TikTok 视频创建 |
 | [ShortGPT](https://github.com/RayVentura/ShortGPT) | ![](https://img.shields.io/github/stars/RayVentura/ShortGPT?style=flat-square) | 短视频全流程自动化 AI 框架 |
 | [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | ![](https://img.shields.io/github/stars/elebumm/RedditVideoMakerBot?style=flat-square) | Reddit 帖子自动转 TikTok/Shorts 风格解说视频 |
+| [NarratoAI](https://github.com/linyqh/NarratoAI) | ![](https://img.shields.io/github/stars/linyqh/NarratoAI?style=flat-square) | AI 一键解说并剪辑视频 — 自动脚本、配音、成片 |
+| [MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus) | ![](https://img.shields.io/github/stars/ddean2009/MoneyPrinterPlus?style=flat-square) | AI 一键批量生成各类短视频，支持多平台和多种大模型 |
+| [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | ![](https://img.shields.io/github/stars/AIDC-AI/Pixelle-Video?style=flat-square) | AI 全自动短视频引擎 — 端到端生成流水线 |
+| [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | ![](https://img.shields.io/github/stars/YILS-LIN/short-video-factory?style=flat-square) | 一键生成产品营销短视频 |
+| [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) | ![](https://img.shields.io/github/stars/Norsico/Video-Materials-AutoGEN-Workstation?style=flat-square) | 短视频生成工作站 — 自动素材搜集与合成 |
 
 ## AI 文生视频模型
 
@@ -48,6 +56,7 @@
 |------|-------|--------|------|
 | [Postiz](https://github.com/gitroomhq/postiz-app) | ![](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square) | ⚠️ 部分可用 | 开源社媒管理平台 — Buffer/Hootsuite 替代品，支持定时发布和 AI 内容生成 |
 | [social-auto-upload](https://github.com/dreammis/social-auto-upload) | ![](https://img.shields.io/github/stars/dreammis/social-auto-upload?style=flat-square) | ✅ 直接可用 | 视频一键多平台分发 — 抖音/TikTok/B站/快手/小红书/视频号 |
+| [video-mover](https://github.com/toki-plus/video-mover) | ![](https://img.shields.io/github/stars/toki-plus/video-mover?style=flat-square) | ✅ 直接可用 | 全自动短视频搬运工具 — 支持多平台视频下载与发布 |
 
 ## 社媒爬虫与竞品分析
 
@@ -60,8 +69,30 @@
 | 项目 | Stars | 可用性 | 说明 |
 |------|-------|--------|------|
 | [VideoLingo](https://github.com/Huanshere/VideoLingo) | ![](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=flat-square) | ✅ 直接可用 | 视频翻译一条龙 — Netflix 级字幕切分、AI 翻译、配音对齐 |
+| [KrillinAI](https://github.com/krillinai/KrillinAI) | ![](https://img.shields.io/github/stars/krillinai/KrillinAI?style=flat-square) | ✅ 直接可用 | AI 视频翻译配音工具 — 多语言支持 |
+| [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) | ![](https://img.shields.io/github/stars/YaoFANGUK/video-subtitle-remover?style=flat-square) | ✅ 直接可用 | AI 视频硬字幕去除 / 文本水印去除 |
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | ![](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=flat-square) | ✅ 直接可用 | Whisper 4x 加速版 — 自动生成字幕/文字稿 |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square) | ✅ 直接可用 | C/C++ 高性能 Whisper — 支持 CPU 和 Apple Silicon 本地运行 |
+
+## AI 短剧生成
+
+| 项目 | Stars | 可用性 | 说明 |
+|------|-------|--------|------|
+| [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | ![](https://img.shields.io/github/stars/chatfire-AI/huobao-drama?style=flat-square) | ✅ 直接可用 | 火宝短剧 — 一句话生成完整短剧 |
+| [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | ![](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square) | ✅ 直接可用 | AI 短剧漫剧生成工具 |
+
+## AI 视频分析与笔记
+
+| 项目 | Stars | 可用性 | 说明 |
+|------|-------|--------|------|
+| [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) | ![](https://img.shields.io/github/stars/JimmyLv/BibiGPT-v1?style=flat-square) | ⚠️ 部分可用 | AI 视频一键总结 — 支持 B站、YouTube、播客等 |
+| [BiliNote](https://github.com/JefferyHcool/BiliNote) | ![](https://img.shields.io/github/stars/JefferyHcool/BiliNote?style=flat-square) | ✅ 直接可用 | AI 视频笔记生成 — B站等平台视频自动提取笔记 |
+
+## AI 数字人
+
+| 项目 | Stars | 可用性 | 说明 |
+|------|-------|--------|------|
+| [aigcpanel](https://github.com/modstart-lib/aigcpanel) | ![](https://img.shields.io/github/stars/modstart-lib/aigcpanel?style=flat-square) | ✅ 直接可用 | AIGC 数字人系统 — AI 虚拟主播 / 数字分身 |
 
 ## 编程式视频制作
 
