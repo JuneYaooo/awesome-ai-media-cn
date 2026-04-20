@@ -38,6 +38,7 @@
 | [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | ![](https://img.shields.io/github/stars/AIDC-AI/Pixelle-Video?style=flat-square) | AI 全自动短视频引擎 — 端到端生成流水线 |
 | [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | ![](https://img.shields.io/github/stars/YILS-LIN/short-video-factory?style=flat-square) | 一键生成产品营销短视频 |
 | [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) | ![](https://img.shields.io/github/stars/Norsico/Video-Materials-AutoGEN-Workstation?style=flat-square) | 短视频生成工作站 — 自动素材搜集与合成 |
+| [OpenMontage](https://github.com/calesthio/OpenMontage) | ![](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square) | 开源 Agent 视频生产系统 —— 从调研、脚本、素材生成到时间线剪辑和成片渲染，全流程自动化 |
 
 ## AI 文生视频模型
 
@@ -57,6 +58,9 @@
 | [Postiz](https://github.com/gitroomhq/postiz-app) | ![](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square) | ⚠️ 部分可用 | 开源社媒管理平台 — Buffer/Hootsuite 替代品，支持定时发布和 AI 内容生成 |
 | [social-auto-upload](https://github.com/dreammis/social-auto-upload) | ![](https://img.shields.io/github/stars/dreammis/social-auto-upload?style=flat-square) | ✅ 直接可用 | 视频一键多平台分发 — 抖音/TikTok/B站/快手/小红书/视频号 |
 | [video-mover](https://github.com/toki-plus/video-mover) | ![](https://img.shields.io/github/stars/toki-plus/video-mover?style=flat-square) | ✅ 直接可用 | 全自动短视频搬运工具 — 支持多平台视频下载与发布 |
+| [BrightBean Studio](https://github.com/brightbeanxyz/brightbean-studio) | ![](https://img.shields.io/github/stars/brightbeanxyz/brightbean-studio?style=flat-square) | ⚠️ 部分可用 | 自托管社媒管理平台 —— 面向创作者/代理机构，支持排期、审批、发布、分析和多工作区协作 |
+| [YTB2BILI](https://github.com/difyz9/ytb2bili) | ![](https://img.shields.io/github/stars/difyz9/ytb2bili?style=flat-square) | ✅ 直接可用 | YouTube/TikTok 到 B 站的全自动搬运流水线 —— 下载、Whisper 字幕、AI 翻译、元数据生成、定时发布一条龙 |
+| [PostBot](https://github.com/gitcoffee-os/postbot) | ![](https://img.shields.io/github/stars/gitcoffee-os/postbot?style=flat-square) | ✅ 直接可用 | 多平台内容同步分发工具 —— 文章、笔记、图片、视频、音频一键发布到主流中文和国际平台 |
 
 ## 社媒爬虫与竞品分析
 
@@ -73,6 +77,7 @@
 | [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) | ![](https://img.shields.io/github/stars/YaoFANGUK/video-subtitle-remover?style=flat-square) | ✅ 直接可用 | AI 视频硬字幕去除 / 文本水印去除 |
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | ![](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=flat-square) | ✅ 直接可用 | Whisper 4x 加速版 — 自动生成字幕/文字稿 |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square) | ✅ 直接可用 | C/C++ 高性能 Whisper — 支持 CPU 和 Apple Silicon 本地运行 |
+| [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | ![](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=flat-square) | ✅ 直接可用 | 基于 LLM 的字幕工作台 —— 语音识别、断句优化、字幕校正、翻译、烧录，提供 GUI/CLI 和测试 |
 
 ## AI 短剧生成
 
@@ -80,6 +85,8 @@
 |------|-------|--------|------|
 | [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | ![](https://img.shields.io/github/stars/chatfire-AI/huobao-drama?style=flat-square) | ✅ 直接可用 | 火宝短剧 — 一句话生成完整短剧 |
 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | ![](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square) | ✅ 直接可用 | AI 短剧漫剧生成工具 |
+| [ArcReel](https://github.com/ArcReel/ArcReel) | ![](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square) | ⚠️ 部分可用 | 开源 AI 视频工作台 —— 从小说/创意到脚本、分镜、素材和短视频，全程由 Agent 编排 |
+| [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | ![](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) | ✅ 直接可用 | 本地 AI 短剧/漫剧生成工具 —— 下载即用、数据不出本机、支持接入自有模型 API |
 
 ## AI 视频分析与笔记
 
@@ -87,6 +94,7 @@
 |------|-------|--------|------|
 | [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) | ![](https://img.shields.io/github/stars/JimmyLv/BibiGPT-v1?style=flat-square) | ⚠️ 部分可用 | AI 视频一键总结 — 支持 B站、YouTube、播客等 |
 | [BiliNote](https://github.com/JefferyHcool/BiliNote) | ![](https://img.shields.io/github/stars/JefferyHcool/BiliNote?style=flat-square) | ✅ 直接可用 | AI 视频笔记生成 — B站等平台视频自动提取笔记 |
+| [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) | ![](https://img.shields.io/github/stars/hanshuaikang/AI-Media2Doc?style=flat-square) | ✅ 直接可用 | 一键把音视频转成小红书/公众号/知识笔记/思维导图/总结/字幕，并支持智能截图插图 |
 
 ## AI 数字人
 
