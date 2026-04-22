@@ -61,12 +61,17 @@
 | [BrightBean Studio](https://github.com/brightbeanxyz/brightbean-studio) | ![](https://img.shields.io/github/stars/brightbeanxyz/brightbean-studio?style=flat-square) | ⚠️ 部分可用 | 自托管社媒管理平台 —— 面向创作者/代理机构，支持排期、审批、发布、分析和多工作区协作 |
 | [YTB2BILI](https://github.com/difyz9/ytb2bili) | ![](https://img.shields.io/github/stars/difyz9/ytb2bili?style=flat-square) | ✅ 直接可用 | YouTube/TikTok 到 B 站的全自动搬运流水线 —— 下载、Whisper 字幕、AI 翻译、元数据生成、定时发布一条龙 |
 | [PostBot](https://github.com/gitcoffee-os/postbot) | ![](https://img.shields.io/github/stars/gitcoffee-os/postbot?style=flat-square) | ✅ 直接可用 | 多平台内容同步分发工具 —— 文章、笔记、图片、视频、音频一键发布到主流中文和国际平台 |
+| [Wechatsync](https://github.com/wechatsync/Wechatsync) | ![](https://img.shields.io/github/stars/wechatsync/Wechatsync?style=flat-square) | ✅ 直接可用 | 文章多平台同步助手 —— 支持公众号、知乎、掘金、CSDN、WordPress 等渠道的一次编辑、多端分发 |
+| [biliup](https://github.com/biliup/biliup) | ![](https://img.shields.io/github/stars/biliup/biliup?style=flat-square) | ✅ 直接可用 | 直播录制与投稿自动化工具 —— 支持 B 站投稿、直播录制、视频下载和跨平台内容搬运 |
+| [SyncCaster](https://github.com/RyanYipeng/SyncCaster) | ![](https://img.shields.io/github/stars/RyanYipeng/SyncCaster?style=flat-square) | ✅ 直接可用 | Chrome 多平台内容分发扩展 —— 采集或撰写文章后统一转 Markdown，并自动同步到知乎、掘金、CSDN、公众号等 |
 
 ## 社媒爬虫与竞品分析
 
 | 项目 | Stars | 可用性 | 说明 |
 |------|-------|--------|------|
 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | ![](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style=flat-square) | ✅ 直接可用 | 小红书/抖音/快手/B站/微博爬虫 — 竞品分析利器 |
+| [xhs](https://github.com/ReaJason/xhs) | ![](https://img.shields.io/github/stars/ReaJason/xhs?style=flat-square) | ✅ 直接可用 | 小红书 Web API 封装与爬取工具链 —— 适合做内容抓取、账号分析和数据采集 |
+| [bilibili-comment-crawler](https://github.com/1dyer/bilibili-comment-crawler) | ![](https://img.shields.io/github/stars/1dyer/bilibili-comment-crawler?style=flat-square) | ✅ 直接可用 | B 站评论抓取工具 —— 支持一级评论、二级回复和 CSV 导出，适合舆情与选题分析 |
 
 ## 字幕与本地化
 
@@ -74,6 +79,7 @@
 |------|-------|--------|------|
 | [VideoLingo](https://github.com/Huanshere/VideoLingo) | ![](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=flat-square) | ✅ 直接可用 | 视频翻译一条龙 — Netflix 级字幕切分、AI 翻译、配音对齐 |
 | [KrillinAI](https://github.com/krillinai/KrillinAI) | ![](https://img.shields.io/github/stars/krillinai/KrillinAI?style=flat-square) | ✅ 直接可用 | AI 视频翻译配音工具 — 多语言支持 |
+| [PotPlayer_ChatGPT_Translate](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate) | ![](https://img.shields.io/github/stars/Felix3322/PotPlayer_ChatGPT_Translate?style=flat-square) | ✅ 直接可用 | PotPlayer 实时字幕翻译插件 —— 接入 OpenAI 兼容接口，支持观看视频时即时翻译字幕 |
 | [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) | ![](https://img.shields.io/github/stars/YaoFANGUK/video-subtitle-remover?style=flat-square) | ✅ 直接可用 | AI 视频硬字幕去除 / 文本水印去除 |
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | ![](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=flat-square) | ✅ 直接可用 | Whisper 4x 加速版 — 自动生成字幕/文字稿 |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square) | ✅ 直接可用 | C/C++ 高性能 Whisper — 支持 CPU 和 Apple Silicon 本地运行 |
@@ -87,6 +93,8 @@
 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | ![](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square) | ✅ 直接可用 | AI 短剧漫剧生成工具 |
 | [ArcReel](https://github.com/ArcReel/ArcReel) | ![](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square) | ⚠️ 部分可用 | 开源 AI 视频工作台 —— 从小说/创意到脚本、分镜、素材和短视频，全程由 Agent 编排 |
 | [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | ![](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) | ✅ 直接可用 | 本地 AI 短剧/漫剧生成工具 —— 下载即用、数据不出本机、支持接入自有模型 API |
+| [AI_novel](https://github.com/tyxben/AI_novel) | ![](https://img.shields.io/github/stars/tyxben/AI_novel?style=flat-square) | ✅ 直接可用 | 小说推文自动化平台 —— 将长篇小说一键转成适合抖音/小红书的有声短视频，支持 CLI / Web UI / MCP |
+| [FastMovieAI](https://github.com/xhadmincn/FastMovieAI) | ![](https://img.shields.io/github/stars/xhadmincn/FastMovieAI?style=flat-square) | ✅ 直接可用 | 开源短剧/短视频创作平台 —— 前后端分离，覆盖脚本、素材、生成、支付和内容管理等完整链路 |
 
 ## AI 视频分析与笔记
 
