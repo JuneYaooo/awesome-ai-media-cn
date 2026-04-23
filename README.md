@@ -39,6 +39,7 @@
 | [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | ![](https://img.shields.io/github/stars/YILS-LIN/short-video-factory?style=flat-square) | 一键生成产品营销短视频 |
 | [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) | ![](https://img.shields.io/github/stars/Norsico/Video-Materials-AutoGEN-Workstation?style=flat-square) | 短视频生成工作站 — 自动素材搜集与合成 |
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | ![](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square) | 开源 Agent 视频生产系统 —— 从调研、脚本、素材生成到时间线剪辑和成片渲染，全流程自动化 |
+| [Seedance 2.0 Web](https://github.com/wwwzhouhui/seedance2.0) | ![](https://img.shields.io/github/stars/wwwzhouhui/seedance2.0?style=flat-square) | 基于即梦 / CapCut Dreamina 的 AI 视频生成 Web 应用 —— 支持多图参考、双模型/多画幅/4-15 秒时长、Cookie 导入和 Docker 一键部署 |
 
 ## AI 文生视频模型
 
@@ -49,6 +50,7 @@
 | [FramePack](https://github.com/lllyasviel/FramePack) | ![](https://img.shields.io/github/stars/lllyasviel/FramePack?style=flat-square) | ControlNet 作者新作 — 固定显存生成任意长度视频，消费级显卡可跑 |
 | [CogVideo](https://github.com/THUDM/CogVideo) | ![](https://img.shields.io/github/stars/THUDM/CogVideo?style=flat-square) | 清华文生视频扩散模型 — 2B/5B 参数版本 |
 | [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | ![](https://img.shields.io/github/stars/Tencent/HunyuanVideo?style=flat-square) | 腾讯开源大规模视频生成模型 |
+| [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | ![](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-1.5?style=flat-square) | 腾讯轻量级视频生成模型 —— 8.3B 参数、消费级显卡可跑，开源权重、训练/推理代码、ComfyUI 支持和中英提示词手册 |
 | [AnimateDiff](https://github.com/guoyww/AnimateDiff) | ![](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=flat-square) | 将个性化文生图模型转为视频动画 |
 
 ## 自媒体运营工具
@@ -64,12 +66,15 @@
 | [Wechatsync](https://github.com/wechatsync/Wechatsync) | ![](https://img.shields.io/github/stars/wechatsync/Wechatsync?style=flat-square) | ✅ 直接可用 | 文章多平台同步助手 —— 支持公众号、知乎、掘金、CSDN、WordPress 等渠道的一次编辑、多端分发 |
 | [biliup](https://github.com/biliup/biliup) | ![](https://img.shields.io/github/stars/biliup/biliup?style=flat-square) | ✅ 直接可用 | 直播录制与投稿自动化工具 —— 支持 B 站投稿、直播录制、视频下载和跨平台内容搬运 |
 | [SyncCaster](https://github.com/RyanYipeng/SyncCaster) | ![](https://img.shields.io/github/stars/RyanYipeng/SyncCaster?style=flat-square) | ✅ 直接可用 | Chrome 多平台内容分发扩展 —— 采集或撰写文章后统一转 Markdown，并自动同步到知乎、掘金、CSDN、公众号等 |
+| [AIWriteX](https://github.com/iniwap/AIWriteX) | ![](https://img.shields.io/github/stars/iniwap/AIWriteX?style=flat-square) | ✅ 直接可用 | 公众号多智能体内容生产平台 —— 热点聚合、选题、采集、去 AI 味改写、排版、配图与自动发布一体化，并支持小红书/百家号/抖音等多平台改写分发 |
+| [SynapseAutomation](https://github.com/Laihiujin/SYNAPSEAUTOMATION) | ![](https://img.shields.io/github/stars/Laihiujin/SYNAPSEAUTOMATION?style=flat-square) | ✅ 直接可用 | AI 矩阵投放/分发中台 —— 多账号多素材多平台排期、发布、监控和数据回收闭环，覆盖抖音/小红书/快手/视频号/B 站 |
 
 ## 社媒爬虫与竞品分析
 
 | 项目 | Stars | 可用性 | 说明 |
 |------|-------|--------|------|
 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | ![](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style=flat-square) | ✅ 直接可用 | 小红书/抖音/快手/B站/微博爬虫 — 竞品分析利器 |
+| [douyin](https://github.com/erma0/douyin) | ![](https://img.shields.io/github/stars/erma0/douyin?style=flat-square) | ✅ 直接可用 | 抖音开源爬虫与下载工具 —— 账号主页、话题、合集、作品、关注/粉丝等公开数据采集，提供 GUI / Web / CLI / REST API |
 | [xhs](https://github.com/ReaJason/xhs) | ![](https://img.shields.io/github/stars/ReaJason/xhs?style=flat-square) | ✅ 直接可用 | 小红书 Web API 封装与爬取工具链 —— 适合做内容抓取、账号分析和数据采集 |
 | [bilibili-comment-crawler](https://github.com/1dyer/bilibili-comment-crawler) | ![](https://img.shields.io/github/stars/1dyer/bilibili-comment-crawler?style=flat-square) | ✅ 直接可用 | B 站评论抓取工具 —— 支持一级评论、二级回复和 CSV 导出，适合舆情与选题分析 |
 
@@ -84,6 +89,7 @@
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | ![](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=flat-square) | ✅ 直接可用 | Whisper 4x 加速版 — 自动生成字幕/文字稿 |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square) | ✅ 直接可用 | C/C++ 高性能 Whisper — 支持 CPU 和 Apple Silicon 本地运行 |
 | [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | ![](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=flat-square) | ✅ 直接可用 | 基于 LLM 的字幕工作台 —— 语音识别、断句优化、字幕校正、翻译、烧录，提供 GUI/CLI 和测试 |
+| [Open-Lyrics](https://github.com/zh-plus/Open-Lyrics) | ![](https://img.shields.io/github/stars/zh-plus/Open-Lyrics?style=flat-square) | ✅ 直接可用 | Whisper + LLM 字幕流水线 —— 转录、翻译、润色为 `.lrc`，支持双语字幕、术语表、音频预处理和 PyPI 安装 |
 
 ## AI 短剧生成
 
