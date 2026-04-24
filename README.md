@@ -40,6 +40,7 @@
 | [Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) | ![](https://img.shields.io/github/stars/Norsico/Video-Materials-AutoGEN-Workstation?style=flat-square) | 短视频生成工作站 — 自动素材搜集与合成 |
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | ![](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square) | 开源 Agent 视频生产系统 —— 从调研、脚本、素材生成到时间线剪辑和成片渲染，全流程自动化 |
 | [Seedance 2.0 Web](https://github.com/wwwzhouhui/seedance2.0) | ![](https://img.shields.io/github/stars/wwwzhouhui/seedance2.0?style=flat-square) | 基于即梦 / CapCut Dreamina 的 AI 视频生成 Web 应用 —— 支持多图参考、双模型/多画幅/4-15 秒时长、Cookie 导入和 Docker 一键部署 |
+| [AIGC-Claw](https://github.com/HITsz-TMG/AIGC-Claw) | ![](https://img.shields.io/github/stars/HITsz-TMG/AIGC-Claw?style=flat-square) | AI 导演式视频生成系统 —— 从一句想法自动拆解到剧本、角色/场景设计、分镜、参考图、视频生成和后期剪辑，支持 Web / 微信 / 飞书协作 |
 
 ## AI 文生视频模型
 
@@ -68,6 +69,7 @@
 | [SyncCaster](https://github.com/RyanYipeng/SyncCaster) | ![](https://img.shields.io/github/stars/RyanYipeng/SyncCaster?style=flat-square) | ✅ 直接可用 | Chrome 多平台内容分发扩展 —— 采集或撰写文章后统一转 Markdown，并自动同步到知乎、掘金、CSDN、公众号等 |
 | [AIWriteX](https://github.com/iniwap/AIWriteX) | ![](https://img.shields.io/github/stars/iniwap/AIWriteX?style=flat-square) | ✅ 直接可用 | 公众号多智能体内容生产平台 —— 热点聚合、选题、采集、去 AI 味改写、排版、配图与自动发布一体化，并支持小红书/百家号/抖音等多平台改写分发 |
 | [SynapseAutomation](https://github.com/Laihiujin/SYNAPSEAUTOMATION) | ![](https://img.shields.io/github/stars/Laihiujin/SYNAPSEAUTOMATION?style=flat-square) | ✅ 直接可用 | AI 矩阵投放/分发中台 —— 多账号多素材多平台排期、发布、监控和数据回收闭环，覆盖抖音/小红书/快手/视频号/B 站 |
+| [RedBox](https://github.com/Jamailar/RedBox) | ![](https://img.shields.io/github/stars/Jamailar/RedBox?style=flat-square) | ✅ 直接可用 | 面向小红书创作者的 AI 工作台 —— 支持内容采集入库、随机漫步选题、稿件管理、AI 生图/生视频、封面生成和 RedClaw 自动化执行 |
 
 ## 社媒爬虫与竞品分析
 
