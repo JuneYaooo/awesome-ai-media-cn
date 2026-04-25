@@ -41,6 +41,8 @@
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | ![](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square) | 开源 Agent 视频生产系统 —— 从调研、脚本、素材生成到时间线剪辑和成片渲染，全流程自动化 |
 | [Seedance 2.0 Web](https://github.com/wwwzhouhui/seedance2.0) | ![](https://img.shields.io/github/stars/wwwzhouhui/seedance2.0?style=flat-square) | 基于即梦 / CapCut Dreamina 的 AI 视频生成 Web 应用 —— 支持多图参考、双模型/多画幅/4-15 秒时长、Cookie 导入和 Docker 一键部署 |
 | [AIGC-Claw](https://github.com/HITsz-TMG/AIGC-Claw) | ![](https://img.shields.io/github/stars/HITsz-TMG/AIGC-Claw?style=flat-square) | AI 导演式视频生成系统 —— 从一句想法自动拆解到剧本、角色/场景设计、分镜、参考图、视频生成和后期剪辑，支持 Web / 微信 / 飞书协作 |
+| [CaroCut](https://github.com/bilibili/carocut) | ![](https://img.shields.io/github/stars/bilibili/carocut?style=flat-square) | B 站开源的多 Agent 视频制作系统，基于 OpenCode AI SDK 和 Remotion，将 PDF、图片、文本自动转成专业视频 |
+| [CutDeck](https://github.com/Agions/CutDeck) | ![](https://img.shields.io/github/stars/Agions/CutDeck?style=flat-square) | 开源 AI 视频剪辑工具，自动从长视频拆出短爆款片段，支持多画幅导出、本地 Whisper 字幕和 Rust 渲染管线 |
 
 ## AI 文生视频模型
 
@@ -103,6 +105,7 @@
 | [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | ![](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) | ✅ 直接可用 | 本地 AI 短剧/漫剧生成工具 —— 下载即用、数据不出本机、支持接入自有模型 API |
 | [AI_novel](https://github.com/tyxben/AI_novel) | ![](https://img.shields.io/github/stars/tyxben/AI_novel?style=flat-square) | ✅ 直接可用 | 小说推文自动化平台 —— 将长篇小说一键转成适合抖音/小红书的有声短视频，支持 CLI / Web UI / MCP |
 | [FastMovieAI](https://github.com/xhadmincn/FastMovieAI) | ![](https://img.shields.io/github/stars/xhadmincn/FastMovieAI?style=flat-square) | ✅ 直接可用 | 开源短剧/短视频创作平台 —— 前后端分离，覆盖脚本、素材、生成、支付和内容管理等完整链路 |
+| [AI-NovelFlow](https://github.com/qzw881130/AI-NovelFlow) | ![](https://img.shields.io/github/stars/qzw881130/AI-NovelFlow?style=flat-square) | ✅ 直接可用 | 小说转视频平台，覆盖角色/场景/道具解析、分镜生成、配音与视频合成，并支持多语言界面与自定义 ComfyUI 工作流 |
 
 ## AI 视频分析与笔记
 
