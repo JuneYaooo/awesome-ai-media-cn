@@ -43,6 +43,7 @@
 | [AIGC-Claw](https://github.com/HITsz-TMG/AIGC-Claw) | ![](https://img.shields.io/github/stars/HITsz-TMG/AIGC-Claw?style=flat-square) | AI 导演式视频生成系统 —— 从一句想法自动拆解到剧本、角色/场景设计、分镜、参考图、视频生成和后期剪辑，支持 Web / 微信 / 飞书协作 |
 | [CaroCut](https://github.com/bilibili/carocut) | ![](https://img.shields.io/github/stars/bilibili/carocut?style=flat-square) | B 站开源的多 Agent 视频制作系统，基于 OpenCode AI SDK 和 Remotion，将 PDF、图片、文本自动转成专业视频 |
 | [CutDeck](https://github.com/Agions/CutDeck) | ![](https://img.shields.io/github/stars/Agions/CutDeck?style=flat-square) | 开源 AI 视频剪辑工具，自动从长视频拆出短爆款片段，支持多画幅导出、本地 Whisper 字幕和 Rust 渲染管线 |
+| [MoneyPrinterAICreate](https://github.com/q1uki/MoneyPrinterAICreate) | ![](https://img.shields.io/github/stars/q1uki/MoneyPrinterAICreate?style=flat-square) | 基于 MoneyPrinterTurbo 的短视频生成增强版 —— 接入通义万相 Wan2.1 文/图生视频素材，支持分镜与提示词可编辑，自动拼接字幕、配音和配乐成片。 |
 
 ## AI 文生视频模型
 
@@ -81,6 +82,7 @@
 | [douyin](https://github.com/erma0/douyin) | ![](https://img.shields.io/github/stars/erma0/douyin?style=flat-square) | ✅ 直接可用 | 抖音开源爬虫与下载工具 —— 账号主页、话题、合集、作品、关注/粉丝等公开数据采集，提供 GUI / Web / CLI / REST API |
 | [xhs](https://github.com/ReaJason/xhs) | ![](https://img.shields.io/github/stars/ReaJason/xhs?style=flat-square) | ✅ 直接可用 | 小红书 Web API 封装与爬取工具链 —— 适合做内容抓取、账号分析和数据采集 |
 | [bilibili-comment-crawler](https://github.com/1dyer/bilibili-comment-crawler) | ![](https://img.shields.io/github/stars/1dyer/bilibili-comment-crawler?style=flat-square) | ✅ 直接可用 | B 站评论抓取工具 —— 支持一级评论、二级回复和 CSV 导出，适合舆情与选题分析 |
+| [TikHub API Python SDK](https://github.com/TikHub/TikHub-API-Python-SDK) | ![](https://img.shields.io/github/stars/TikHub/TikHub-API-Python-SDK?style=flat-square) | ⚠️ 部分可用 | TikHub 官方 Python SDK，统一封装抖音、小红书、B站、微博、YouTube 等 16+ 平台数据接口，适合做选题分析、竞品监测、达人研究和 AI 训练数据采集。 |
 
 ## 字幕与本地化
 
@@ -94,6 +96,7 @@
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square) | ✅ 直接可用 | C/C++ 高性能 Whisper — 支持 CPU 和 Apple Silicon 本地运行 |
 | [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | ![](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=flat-square) | ✅ 直接可用 | 基于 LLM 的字幕工作台 —— 语音识别、断句优化、字幕校正、翻译、烧录，提供 GUI/CLI 和测试 |
 | [Open-Lyrics](https://github.com/zh-plus/Open-Lyrics) | ![](https://img.shields.io/github/stars/zh-plus/Open-Lyrics?style=flat-square) | ✅ 直接可用 | Whisper + LLM 字幕流水线 —— 转录、翻译、润色为 `.lrc`，支持双语字幕、术语表、音频预处理和 PyPI 安装 |
+| [MioSub](https://github.com/corvo007/MioSub) | ![](https://img.shields.io/github/stars/corvo007/MioSub?style=flat-square) | ✅ 直接可用 | 全自动字幕工作台：下载、转录、翻译、对齐、压制一条龙，支持音视频双场景、CTC 对齐、桌面应用和在线文档，适合字幕组与出海内容团队。 |
 
 ## AI 短剧生成
 
