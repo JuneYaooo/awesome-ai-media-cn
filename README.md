@@ -44,6 +44,9 @@
 | [CaroCut](https://github.com/bilibili/carocut) | ![](https://img.shields.io/github/stars/bilibili/carocut?style=flat-square) | B 站开源的多 Agent 视频制作系统，基于 OpenCode AI SDK 和 Remotion，将 PDF、图片、文本自动转成专业视频 |
 | [CutDeck](https://github.com/Agions/CutDeck) | ![](https://img.shields.io/github/stars/Agions/CutDeck?style=flat-square) | 开源 AI 视频剪辑工具，自动从长视频拆出短爆款片段，支持多画幅导出、本地 Whisper 字幕和 Rust 渲染管线 |
 | [MoneyPrinterAICreate](https://github.com/q1uki/MoneyPrinterAICreate) | ![](https://img.shields.io/github/stars/q1uki/MoneyPrinterAICreate?style=flat-square) | 基于 MoneyPrinterTurbo 的短视频生成增强版 —— 接入通义万相 Wan2.1 文/图生视频素材，支持分镜与提示词可编辑，自动拼接字幕、配音和配乐成片。 |
+| [KaiyanAI / KaiyanTool](https://github.com/xiashao/KaiyanTool) | ![](https://img.shields.io/github/stars/xiashao/KaiyanTool?style=flat-square) | 面向影视创作者的一站式 AI 创作平台 —— 从剧本、分镜到图像/视频生成全流程打通，支持多模型、桌面端 Tauri 应用和较完整的工程化文档。 |
+| [Voxplore](https://github.com/Agions/Voxplore) | ![](https://img.shields.io/github/stars/Agions/Voxplore?style=flat-square) | AI 第一人称视频解说工具 —— 批量上传素材后自动分组、抽取片段、生成配音和字幕，适合短剧、影视混剪和 vlog 叙事化改写。 |
+| [AI Video Workstation / auto_video_maker](https://github.com/rancho-houyaohui/auto_video_maker) | ![](https://img.shields.io/github/stars/rancho-houyaohui/auto_video_maker?style=flat-square) | 本地大模型驱动的视频生产工作站 —— 自动拆分分镜、匹配素材、生成 TTS/音效/字幕，并提供 Web UI 做逐镜头精修与渲染。 |
 
 ## AI 文生视频模型
 
@@ -63,6 +66,7 @@
 |------|-------|--------|------|
 | [Postiz](https://github.com/gitroomhq/postiz-app) | ![](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square) | ⚠️ 部分可用 | 开源社媒管理平台 — Buffer/Hootsuite 替代品，支持定时发布和 AI 内容生成 |
 | [social-auto-upload](https://github.com/dreammis/social-auto-upload) | ![](https://img.shields.io/github/stars/dreammis/social-auto-upload?style=flat-square) | ✅ 直接可用 | 视频一键多平台分发 — 抖音/TikTok/B站/快手/小红书/视频号 |
+| [matrix](https://github.com/kebenxiaoming/matrix) | ![](https://img.shields.io/github/stars/kebenxiaoming/matrix?style=flat-square) | ✅ 直接可用 | 基于 Playwright 的短视频矩阵分发脚本系统，可自动发布到抖音、视频号、小红书、快手等平台，并支持登录态与发布队列管理。 |
 | [video-mover](https://github.com/toki-plus/video-mover) | ![](https://img.shields.io/github/stars/toki-plus/video-mover?style=flat-square) | ✅ 直接可用 | 全自动短视频搬运工具 — 支持多平台视频下载与发布 |
 | [BrightBean Studio](https://github.com/brightbeanxyz/brightbean-studio) | ![](https://img.shields.io/github/stars/brightbeanxyz/brightbean-studio?style=flat-square) | ⚠️ 部分可用 | 自托管社媒管理平台 —— 面向创作者/代理机构，支持排期、审批、发布、分析和多工作区协作 |
 | [YTB2BILI](https://github.com/difyz9/ytb2bili) | ![](https://img.shields.io/github/stars/difyz9/ytb2bili?style=flat-square) | ✅ 直接可用 | YouTube/TikTok 到 B 站的全自动搬运流水线 —— 下载、Whisper 字幕、AI 翻译、元数据生成、定时发布一条龙 |
