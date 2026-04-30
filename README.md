@@ -77,6 +77,7 @@
 | [AIWriteX](https://github.com/iniwap/AIWriteX) | ![](https://img.shields.io/github/stars/iniwap/AIWriteX?style=flat-square) | ✅ 直接可用 | 公众号多智能体内容生产平台 —— 热点聚合、选题、采集、去 AI 味改写、排版、配图与自动发布一体化，并支持小红书/百家号/抖音等多平台改写分发 |
 | [SynapseAutomation](https://github.com/Laihiujin/SYNAPSEAUTOMATION) | ![](https://img.shields.io/github/stars/Laihiujin/SYNAPSEAUTOMATION?style=flat-square) | ✅ 直接可用 | AI 矩阵投放/分发中台 —— 多账号多素材多平台排期、发布、监控和数据回收闭环，覆盖抖音/小红书/快手/视频号/B 站 |
 | [RedBox](https://github.com/Jamailar/RedBox) | ![](https://img.shields.io/github/stars/Jamailar/RedBox?style=flat-square) | ✅ 直接可用 | 面向小红书创作者的 AI 工作台 —— 支持内容采集入库、随机漫步选题、稿件管理、AI 生图/生视频、封面生成和 RedClaw 自动化执行 |
+| [Cyber Collector](https://t.me/cybercollectorbot) | — | ✅ 直接可用 | 免费 Telegram 下载机器人 —— 支持 TikTok（无水印）、Instagram Reels/Stories、YouTube+Shorts、X/Twitter、Facebook 视频下载，无需注册，无广告。[官网](https://cybercollector.hitkey.io) |
 
 ## 社媒爬虫与竞品分析
 
