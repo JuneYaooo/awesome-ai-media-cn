@@ -77,6 +77,7 @@
 | [AIWriteX](https://github.com/iniwap/AIWriteX) | ![](https://img.shields.io/github/stars/iniwap/AIWriteX?style=flat-square) | ✅ 直接可用 | 公众号多智能体内容生产平台 —— 热点聚合、选题、采集、去 AI 味改写、排版、配图与自动发布一体化，并支持小红书/百家号/抖音等多平台改写分发 |
 | [SynapseAutomation](https://github.com/Laihiujin/SYNAPSEAUTOMATION) | ![](https://img.shields.io/github/stars/Laihiujin/SYNAPSEAUTOMATION?style=flat-square) | ✅ 直接可用 | AI 矩阵投放/分发中台 —— 多账号多素材多平台排期、发布、监控和数据回收闭环，覆盖抖音/小红书/快手/视频号/B 站 |
 | [RedBox](https://github.com/Jamailar/RedBox) | ![](https://img.shields.io/github/stars/Jamailar/RedBox?style=flat-square) | ✅ 直接可用 | 面向小红书创作者的 AI 工作台 —— 支持内容采集入库、随机漫步选题、稿件管理、AI 生图/生视频、封面生成和 RedClaw 自动化执行 |
+| [wechat-on-airflow](https://github.com/claude89757/wechat-on-airflow) | ![](https://img.shields.io/github/stars/claude89757/wechat-on-airflow?style=flat-square) | ✅ 直接可用 | 基于 Apache Airflow 的微信智能应用编排框架，支持个人微信 / 公众号 / 企业微信消息接入、AI 自动回复、知识库客服、图文与短视频生成等工作流。 |
 
 ## 社媒爬虫与竞品分析
 
@@ -99,6 +100,7 @@
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | ![](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=flat-square) | ✅ 直接可用 | Whisper 4x 加速版 — 自动生成字幕/文字稿 |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | ![](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square) | ✅ 直接可用 | C/C++ 高性能 Whisper — 支持 CPU 和 Apple Silicon 本地运行 |
 | [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | ![](https://img.shields.io/github/stars/WEIFENG2333/VideoCaptioner?style=flat-square) | ✅ 直接可用 | 基于 LLM 的字幕工作台 —— 语音识别、断句优化、字幕校正、翻译、烧录，提供 GUI/CLI 和测试 |
+| [Silhouette](https://github.com/xulihang/Silhouette) | ![](https://img.shields.io/github/stars/xulihang/Silhouette?style=flat-square) | ✅ 直接可用 | 面向音视频的计算机辅助翻译工具，集成 Whisper 识别、ChatGPT / DeepSeek 上下文翻译、波形级字幕校正、强制对齐和 SRT/TXT 导出，支持 Win/macOS/Linux。 |
 | [Open-Lyrics](https://github.com/zh-plus/Open-Lyrics) | ![](https://img.shields.io/github/stars/zh-plus/Open-Lyrics?style=flat-square) | ✅ 直接可用 | Whisper + LLM 字幕流水线 —— 转录、翻译、润色为 `.lrc`，支持双语字幕、术语表、音频预处理和 PyPI 安装 |
 | [MioSub](https://github.com/corvo007/MioSub) | ![](https://img.shields.io/github/stars/corvo007/MioSub?style=flat-square) | ✅ 直接可用 | 全自动字幕工作台：下载、转录、翻译、对齐、压制一条龙，支持音视频双场景、CTC 对齐、桌面应用和在线文档，适合字幕组与出海内容团队。 |
 
@@ -110,6 +112,7 @@
 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | ![](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square) | ✅ 直接可用 | AI 短剧漫剧生成工具 |
 | [ArcReel](https://github.com/ArcReel/ArcReel) | ![](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square) | ⚠️ 部分可用 | 开源 AI 视频工作台 —— 从小说/创意到脚本、分镜、素材和短视频，全程由 Agent 编排 |
 | [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | ![](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) | ✅ 直接可用 | 本地 AI 短剧/漫剧生成工具 —— 下载即用、数据不出本机、支持接入自有模型 API |
+| [PlotCraft](https://github.com/Agions/PlotCraft) | ![](https://img.shields.io/github/stars/Agions/PlotCraft?style=flat-square) | ✅ 直接可用 | AI 驱动的视频脚本与短剧生产平台，支持小说 / 剧本 / 提示词导入、AI 分镜、角色一致性、唇形同步、批量渲染与一键导出，并提供 Web + Tauri 桌面端。 |
 | [AI_novel](https://github.com/tyxben/AI_novel) | ![](https://img.shields.io/github/stars/tyxben/AI_novel?style=flat-square) | ✅ 直接可用 | 小说推文自动化平台 —— 将长篇小说一键转成适合抖音/小红书的有声短视频，支持 CLI / Web UI / MCP |
 | [FastMovieAI](https://github.com/xhadmincn/FastMovieAI) | ![](https://img.shields.io/github/stars/xhadmincn/FastMovieAI?style=flat-square) | ✅ 直接可用 | 开源短剧/短视频创作平台 —— 前后端分离，覆盖脚本、素材、生成、支付和内容管理等完整链路 |
 | [AI-NovelFlow](https://github.com/qzw881130/AI-NovelFlow) | ![](https://img.shields.io/github/stars/qzw881130/AI-NovelFlow?style=flat-square) | ✅ 直接可用 | 小说转视频平台，覆盖角色/场景/道具解析、分镜生成、配音与视频合成，并支持多语言界面与自定义 ComfyUI 工作流 |
