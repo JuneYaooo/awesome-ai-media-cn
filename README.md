@@ -79,6 +79,7 @@
 | [RedBox](https://github.com/Jamailar/RedBox) | ![](https://img.shields.io/github/stars/Jamailar/RedBox?style=flat-square) | ✅ 直接可用 | 面向小红书创作者的 AI 工作台 —— 支持内容采集入库、随机漫步选题、稿件管理、AI 生图/生视频、封面生成和 RedClaw 自动化执行 |
 | [wechat-on-airflow](https://github.com/claude89757/wechat-on-airflow) | ![](https://img.shields.io/github/stars/claude89757/wechat-on-airflow?style=flat-square) | ✅ 直接可用 | 基于 Apache Airflow 的微信智能应用编排框架，支持个人微信 / 公众号 / 企业微信消息接入、AI 自动回复、知识库客服、图文与短视频生成等工作流。 |
 
+
 ## 社媒爬虫与竞品分析
 
 | 项目 | Stars | 可用性 | 说明 |
@@ -88,6 +89,8 @@
 | [xhs](https://github.com/ReaJason/xhs) | ![](https://img.shields.io/github/stars/ReaJason/xhs?style=flat-square) | ✅ 直接可用 | 小红书 Web API 封装与爬取工具链 —— 适合做内容抓取、账号分析和数据采集 |
 | [bilibili-comment-crawler](https://github.com/1dyer/bilibili-comment-crawler) | ![](https://img.shields.io/github/stars/1dyer/bilibili-comment-crawler?style=flat-square) | ✅ 直接可用 | B 站评论抓取工具 —— 支持一级评论、二级回复和 CSV 导出，适合舆情与选题分析 |
 | [TikHub API Python SDK](https://github.com/TikHub/TikHub-API-Python-SDK) | ![](https://img.shields.io/github/stars/TikHub/TikHub-API-Python-SDK?style=flat-square) | ⚠️ 部分可用 | TikHub 官方 Python SDK，统一封装抖音、小红书、B站、微博、YouTube 等 16+ 平台数据接口，适合做选题分析、竞品监测、达人研究和 AI 训练数据采集。 |
+
+
 
 ## 字幕与本地化
 
@@ -104,6 +107,8 @@
 | [Open-Lyrics](https://github.com/zh-plus/Open-Lyrics) | ![](https://img.shields.io/github/stars/zh-plus/Open-Lyrics?style=flat-square) | ✅ 直接可用 | Whisper + LLM 字幕流水线 —— 转录、翻译、润色为 `.lrc`，支持双语字幕、术语表、音频预处理和 PyPI 安装 |
 | [MioSub](https://github.com/corvo007/MioSub) | ![](https://img.shields.io/github/stars/corvo007/MioSub?style=flat-square) | ✅ 直接可用 | 全自动字幕工作台：下载、转录、翻译、对齐、压制一条龙，支持音视频双场景、CTC 对齐、桌面应用和在线文档，适合字幕组与出海内容团队。 |
 
+
+
 ## AI 短剧生成
 
 | 项目 | Stars | 可用性 | 说明 |
@@ -111,6 +116,7 @@
 | [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | ![](https://img.shields.io/github/stars/chatfire-AI/huobao-drama?style=flat-square) | ✅ 直接可用 | 火宝短剧 — 一句话生成完整短剧 |
 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | ![](https://img.shields.io/github/stars/HBAI-Ltd/Toonflow-app?style=flat-square) | ✅ 直接可用 | AI 短剧漫剧生成工具 |
 | [ArcReel](https://github.com/ArcReel/ArcReel) | ![](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square) | ⚠️ 部分可用 | 开源 AI 视频工作台 —— 从小说/创意到脚本、分镜、素材和短视频，全程由 Agent 编排 |
+
 | [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | ![](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square) | ✅ 直接可用 | 本地 AI 短剧/漫剧生成工具 —— 下载即用、数据不出本机、支持接入自有模型 API |
 | [PlotCraft](https://github.com/Agions/PlotCraft) | ![](https://img.shields.io/github/stars/Agions/PlotCraft?style=flat-square) | ✅ 直接可用 | AI 驱动的视频脚本与短剧生产平台，支持小说 / 剧本 / 提示词导入、AI 分镜、角色一致性、唇形同步、批量渲染与一键导出，并提供 Web + Tauri 桌面端。 |
 | [AI_novel](https://github.com/tyxben/AI_novel) | ![](https://img.shields.io/github/stars/tyxben/AI_novel?style=flat-square) | ✅ 直接可用 | 小说推文自动化平台 —— 将长篇小说一键转成适合抖音/小红书的有声短视频，支持 CLI / Web UI / MCP |
