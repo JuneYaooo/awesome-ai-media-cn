@@ -49,6 +49,8 @@
 | [AI Video Workstation / auto_video_maker](https://github.com/rancho-houyaohui/auto_video_maker) | ![](https://img.shields.io/github/stars/rancho-houyaohui/auto_video_maker?style=flat-square) | 本地大模型驱动的视频生产工作站 —— 自动拆分分镜、匹配素材、生成 TTS/音效/字幕，并提供 Web UI 做逐镜头精修与渲染。 |
 | [VideoClaw](https://github.com/HITsz-TMG/VideoClaw) | ![](https://img.shields.io/github/stars/HITsz-TMG/VideoClaw?style=flat-square) | AI 全自动化视频生成员工 — 输入一句话创意，自动生成完整影片，覆盖剧本、分镜、素材、配音、剪辑全流程。支持 Web/微信/飞书协作。 |
 | [daihuo-jianshou](https://github.com/witty-suckerpunch492/daihuo-jianshou) | ![](https://img.shields.io/github/stars/witty-suckerpunch492/daihuo-jianshou?style=flat-square) | AI 电商带货短视频自动生成 — 上传商品图，AI 生成脚本、素材并合成视频，适配抖音、快手、小红书。 |
+| [ai-highlight-clip](https://github.com/toki-plus/ai-highlight-clip) | ![](https://img.shields.io/github/stars/toki-plus/ai-highlight-clip?style=flat-square) | AI 长视频高光剪辑工具 — 自动将课程/访谈/直播回放转为数十个爆款短视频，内置 Whisper 识别与大模型评分。 |
+| [ai-mixed-cut](https://github.com/toki-plus/ai-mixed-cut) | ![](https://img.shields.io/github/stars/toki-plus/ai-mixed-cut?style=flat-square) | AI 内容再创作引擎 — "解构-重构"爆款视频模式，全自动生成高度原创短视频。 |
 
 ## AI 文生视频模型
 
@@ -61,6 +63,7 @@
 | [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) | ![](https://img.shields.io/github/stars/Tencent/HunyuanVideo?style=flat-square) | 腾讯开源大规模视频生成模型 |
 | [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | ![](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-1.5?style=flat-square) | 腾讯轻量级视频生成模型 —— 8.3B 参数、消费级显卡可跑，开源权重、训练/推理代码、ComfyUI 支持和中英提示词手册 |
 | [AnimateDiff](https://github.com/guoyww/AnimateDiff) | ![](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=flat-square) | 将个性化文生图模型转为视频动画 |
+| [doubao-seedance-ttv-itv](https://github.com/wwwzhouhui/doubao-seedance-ttv-itv) | ![](https://img.shields.io/github/stars/wwwzhouhui/doubao-seedance-ttv-itv?style=flat-square) | 豆包 Seedance 1.5 Pro 视频生成工具，支持文生视频和图生视频，提供 Gradio Web UI 和 RESTful API。 |
 
 ## 自媒体运营工具
 
@@ -81,6 +84,7 @@
 | [RedBox](https://github.com/Jamailar/RedBox) | ![](https://img.shields.io/github/stars/Jamailar/RedBox?style=flat-square) | ✅ 直接可用 | 面向小红书创作者的 AI 工作台 —— 支持内容采集入库、随机漫步选题、稿件管理、AI 生图/生视频、封面生成和 RedClaw 自动化执行 |
 | [wechat-on-airflow](https://github.com/claude89757/wechat-on-airflow) | ![](https://img.shields.io/github/stars/claude89757/wechat-on-airflow?style=flat-square) | ✅ 直接可用 | 基于 Apache Airflow 的微信智能应用编排框架，支持个人微信 / 公众号 / 企业微信消息接入、AI 自动回复、知识库客服、图文与短视频生成等工作流。 |
 | [Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) | ![](https://img.shields.io/github/stars/fqscfqj/Y2A-Auto?style=flat-square) | ✅ 直接可用 | YouTube 到 AcFun 和 Bilibili 自动化搬运工具，支持 AI 翻译、字幕生成、内容审核、智能监控。 |
+| [MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension) | ![](https://img.shields.io/github/stars/leaperone/MultiPost-Extension?style=flat-square) | ✅ 直接可用 | 浏览器扩展，一键发布内容到多个社媒平台，支持知乎、CSDN、掘金、公众号、小红书、抖音等多渠道同步分发。 |
 
 ## 社媒爬虫与竞品分析
 
