@@ -51,6 +51,9 @@
 | [daihuo-jianshou](https://github.com/witty-suckerpunch492/daihuo-jianshou) | ![](https://img.shields.io/github/stars/witty-suckerpunch492/daihuo-jianshou?style=flat-square) | AI 电商带货短视频自动生成 — 上传商品图，AI 生成脚本、素材并合成视频，适配抖音、快手、小红书。 |
 | [ai-highlight-clip](https://github.com/toki-plus/ai-highlight-clip) | ![](https://img.shields.io/github/stars/toki-plus/ai-highlight-clip?style=flat-square) | AI 长视频高光剪辑工具 — 自动将课程/访谈/直播回放转为数十个爆款短视频，内置 Whisper 识别与大模型评分。 |
 | [ai-mixed-cut](https://github.com/toki-plus/ai-mixed-cut) | ![](https://img.shields.io/github/stars/toki-plus/ai-mixed-cut?style=flat-square) | AI 内容再创作引擎 — "解构-重构"爆款视频模式，全自动生成高度原创短视频。 |
+| [xiaoye-ai](https://github.com/capybara-zy/xiaoye-ai) | ![](https://img.shields.io/github/stars/capybara-zy/xiaoye-ai?style=flat-square) | 多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。 |
+| [ai-video-workflow](https://github.com/toki-plus/ai-video-workflow) | ![](https://img.shields.io/github/stars/toki-plus/ai-video-workflow?style=flat-square) | 全自动 AI 原生视频生成工作流，集成文生图(LibLib)/图生视频(即梦)/文生音乐(即梦)和 AI 提示词生成(豆包)，一键创作 AIGC 短视频。 |
+| [open-director](https://github.com/seme-org/open-director) | ![](https://img.shields.io/github/stars/seme-org/open-director?style=flat-square) | 开源 AI 视频工作室 — 从一句话到成片。支持创意模式（AI 导演全流程自动生成）和批量模式（批量生产短视频）。Open-source AI video studio. |
 
 ## AI 文生视频模型
 
@@ -85,6 +88,7 @@
 | [wechat-on-airflow](https://github.com/claude89757/wechat-on-airflow) | ![](https://img.shields.io/github/stars/claude89757/wechat-on-airflow?style=flat-square) | ✅ 直接可用 | 基于 Apache Airflow 的微信智能应用编排框架，支持个人微信 / 公众号 / 企业微信消息接入、AI 自动回复、知识库客服、图文与短视频生成等工作流。 |
 | [Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) | ![](https://img.shields.io/github/stars/fqscfqj/Y2A-Auto?style=flat-square) | ✅ 直接可用 | YouTube 到 AcFun 和 Bilibili 自动化搬运工具，支持 AI 翻译、字幕生成、内容审核、智能监控。 |
 | [MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension) | ![](https://img.shields.io/github/stars/leaperone/MultiPost-Extension?style=flat-square) | ✅ 直接可用 | 浏览器扩展，一键发布内容到多个社媒平台，支持知乎、CSDN、掘金、公众号、小红书、抖音等多渠道同步分发。 |
+| [liying_ai](https://github.com/liying-main/liying_ai) | ![](https://img.shields.io/github/stars/liying-main/liying_ai?style=flat-square) | ⚠️ 部分可用 | 厉影 AI 短视频智能体，深度融合云端算力调度、NLP、TTS、数字人驱动、视频剪辑与多平台分发能力，一键生成短视频。 |
 
 ## 社媒爬虫与竞品分析
 
@@ -126,6 +130,7 @@
 | [AI_novel](https://github.com/tyxben/AI_novel) | ![](https://img.shields.io/github/stars/tyxben/AI_novel?style=flat-square) | ✅ 直接可用 | 小说推文自动化平台 —— 将长篇小说一键转成适合抖音/小红书的有声短视频，支持 CLI / Web UI / MCP |
 | [FastMovieAI](https://github.com/xhadmincn/FastMovieAI) | ![](https://img.shields.io/github/stars/xhadmincn/FastMovieAI?style=flat-square) | ✅ 直接可用 | 开源短剧/短视频创作平台 —— 前后端分离，覆盖脚本、素材、生成、支付和内容管理等完整链路 |
 | [AI-NovelFlow](https://github.com/qzw881130/AI-NovelFlow) | ![](https://img.shields.io/github/stars/qzw881130/AI-NovelFlow?style=flat-square) | ✅ 直接可用 | 小说转视频平台，覆盖角色/场景/道具解析、分镜生成、配音与视频合成，并支持多语言界面与自定义 ComfyUI 工作流 |
+| [huobao-drama-ai](https://github.com/dav-niu474/huobao-drama-ai) | ![](https://img.shields.io/github/stars/dav-niu474/huobao-drama-ai?style=flat-square) | ⚠️ 部分可用 | AI 短剧创作平台 — 从剧本到成片，一站式 AI 短剧制作工作台。支持 70+ 大模型、图片生成、视频生成(Seedance 2.0)、AI 配音。 |
 
 ## AI 视频分析与笔记
 
@@ -134,6 +139,7 @@
 | [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) | ![](https://img.shields.io/github/stars/JimmyLv/BibiGPT-v1?style=flat-square) | ⚠️ 部分可用 | AI 视频一键总结 — 支持 B站、YouTube、播客等 |
 | [BiliNote](https://github.com/JefferyHcool/BiliNote) | ![](https://img.shields.io/github/stars/JefferyHcool/BiliNote?style=flat-square) | ✅ 直接可用 | AI 视频笔记生成 — B站等平台视频自动提取笔记 |
 | [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) | ![](https://img.shields.io/github/stars/hanshuaikang/AI-Media2Doc?style=flat-square) | ✅ 直接可用 | 一键把音视频转成小红书/公众号/知识笔记/思维导图/总结/字幕，并支持智能截图插图 |
+| [Douyin-full-stack-summarizer](https://github.com/skepty2333/Douyin-full-stack-summarizer) | ![](https://img.shields.io/github/stars/skepty2333/Douyin-full-stack-summarizer?style=flat-square) | ✅ 直接可用 | 将抖音视频转化为结构化的深度学习笔记，并沉淀为可被 MCP 调用的 SQL 知识库，实现视频内容的结构化知识管理。 |
 
 ## AI 数字人
 
@@ -153,6 +159,7 @@
 |------|-------|------|
 | [MoviePy](https://github.com/Zulko/moviepy) | ![](https://img.shields.io/github/stars/Zulko/moviepy?style=flat-square) | Python 视频编辑库 — 剪切、合成、特效、文字叠加 |
 | [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) | ![](https://img.shields.io/github/stars/kkroening/ffmpeg-python?style=flat-square) | FFmpeg 的 Python 封装 — 视频/音频处理流水线 |
+| [story-fab](https://github.com/Agions/story-fab) | ![](https://img.shields.io/github/stars/Agions/story-fab?style=flat-square) | 开源 AI 视频剪辑工具。长视频自动拆条为爆款短片段，支持 9:16/1:1/16:9 多格式导出，本地 Whisper 字幕，Rust 渲染管线，无需上传。 |
 
 ---
 
