@@ -132,6 +132,7 @@
 | [AI-NovelFlow](https://github.com/qzw881130/AI-NovelFlow) | ![](https://img.shields.io/github/stars/qzw881130/AI-NovelFlow?style=flat-square) | ✅ 直接可用 | 小说转视频平台，覆盖角色/场景/道具解析、分镜生成、配音与视频合成，并支持多语言界面与自定义 ComfyUI 工作流 |
 | [huobao-drama-ai](https://github.com/dav-niu474/huobao-drama-ai) | ![](https://img.shields.io/github/stars/dav-niu474/huobao-drama-ai?style=flat-square) | ⚠️ 部分可用 | AI 短剧创作平台 — 从剧本到成片，一站式 AI 短剧制作工作台。支持 70+ 大模型、图片生成、视频生成(Seedance 2.0)、AI 配音。 |
 | [AIYOU](https://github.com/yubowen123/AIYOU_open-ai-video-drama-generator) | ![](https://img.shields.io/github/stars/yubowen123/AIYOU_open-ai-video-drama-generator?style=flat-square) | ⚠️ 部分可用 | AIYOU — AI 短剧平台，36 天 VibeCoding 构建。自动化工作流：剧本创作 → 角色设计 → 分镜生成 → 视频合成 → 配音字幕，一站式 AI 短剧制作。 |
+| [scene-fab](https://github.com/Agions/scene-fab) | ![](https://img.shields.io/github/stars/Agions/scene-fab?style=flat-square) | ⚠️ 部分可用 | scene-fab — AI 影视解说创作工具，智能拆条、AI 解说生成、一键配音合成。自动识别精彩片段，生成解说文案并合成完整影视解说视频。 |
 
 ## AI 视频分析与笔记
 
