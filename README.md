@@ -117,6 +117,7 @@
 | [Open-Lyrics](https://github.com/zh-plus/Open-Lyrics) | ![](https://img.shields.io/github/stars/zh-plus/Open-Lyrics?style=flat-square) | ✅ 直接可用 | Whisper + LLM 字幕流水线 —— 转录、翻译、润色为 `.lrc`，支持双语字幕、术语表、音频预处理和 PyPI 安装 |
 | [MioSub](https://github.com/corvo007/MioSub) | ![](https://img.shields.io/github/stars/corvo007/MioSub?style=flat-square) | ✅ 直接可用 | 全自动字幕工作台：下载、转录、翻译、对齐、压制一条龙，支持音视频双场景、CTC 对齐、桌面应用和在线文档，适合字幕组与出海内容团队。 |
 | [xiaoniu](https://github.com/agan-j/xiaoniu) | ![](https://img.shields.io/github/stars/agan-j/xiaoniu?style=flat-square) | ✅ 直接可用 | 小牛视频翻译 — 支持本地视频翻译、字幕翻译和 YouTube 视频翻译下载，集成 ASR 与多语言翻译，助力创作者高效完成视频本地化。 |
+| [xiaohu-video-translate](https://github.com/xiaohuailabs/xiaohu-video-translate) | ![](https://img.shields.io/github/stars/xiaohuailabs/xiaohu-video-translate?style=flat-square) | ✅ 直接可用 | 小虎视频翻译 — 一句话将外语视频自动配上中文字幕。下载/转写/翻译/润色/烧录一条龙，全程本地运行，转写零 API 费用。 |
 
 ## AI 短剧生成
 
