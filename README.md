@@ -67,6 +67,7 @@
 | [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | ![](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-1.5?style=flat-square) | 腾讯轻量级视频生成模型 —— 8.3B 参数、消费级显卡可跑，开源权重、训练/推理代码、ComfyUI 支持和中英提示词手册 |
 | [AnimateDiff](https://github.com/guoyww/AnimateDiff) | ![](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=flat-square) | 将个性化文生图模型转为视频动画 |
 | [doubao-seedance-ttv-itv](https://github.com/wwwzhouhui/doubao-seedance-ttv-itv) | ![](https://img.shields.io/github/stars/wwwzhouhui/doubao-seedance-ttv-itv?style=flat-square) | 豆包 Seedance 1.5 Pro 视频生成工具，支持文生视频和图生视频，提供 Gradio Web UI 和 RESTful API。 |
+| [daihuo-jianshou](https://github.com/xixihhhh/daihuo-jianshou) | ![](https://img.shields.io/github/stars/xixihhhh/daihuo-jianshou?style=flat-square) | AI 电商带货视频生成工具 — 上传商品图自动生成抖音/快手/小红书带货短视频，AI 脚本+生图+合成一条龙，支持 Seedance 2.0 / GPT Image 2 / Kling 3.0 / Veo 3 等模型。 |
 
 ## 自媒体运营工具
 
