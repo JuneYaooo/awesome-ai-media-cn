@@ -54,6 +54,7 @@
 | [xiaoye-ai](https://github.com/capybara-zy/xiaoye-ai) | ![](https://img.shields.io/github/stars/capybara-zy/xiaoye-ai?style=flat-square) | 多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。 |
 | [ai-video-workflow](https://github.com/toki-plus/ai-video-workflow) | ![](https://img.shields.io/github/stars/toki-plus/ai-video-workflow?style=flat-square) | 全自动 AI 原生视频生成工作流，集成文生图(LibLib)/图生视频(即梦)/文生音乐(即梦)和 AI 提示词生成(豆包)，一键创作 AIGC 短视频。 |
 | [open-director](https://github.com/seme-org/open-director) | ![](https://img.shields.io/github/stars/seme-org/open-director?style=flat-square) | 开源 AI 视频工作室 — 从一句话到成片。支持创意模式（AI 导演全流程自动生成）和批量模式（批量生产短视频）。Open-source AI video studio. |
+| [clipforge](https://github.com/xixihhhh/clipforge) | ![](https://img.shields.io/github/stars/xixihhhh/clipforge?style=flat-square) | ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerc... |
 
 ## AI 文生视频模型
 
