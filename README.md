@@ -121,6 +121,7 @@
 | [xiaoniu](https://github.com/agan-j/xiaoniu) | ![](https://img.shields.io/github/stars/agan-j/xiaoniu?style=flat-square) | ✅ 直接可用 | 小牛视频翻译 — 支持本地视频翻译、字幕翻译和 YouTube 视频翻译下载，集成 ASR 与多语言翻译，助力创作者高效完成视频本地化。 |
 | [xiaohu-video-translate](https://github.com/xiaohuailabs/xiaohu-video-translate) | ![](https://img.shields.io/github/stars/xiaohuailabs/xiaohu-video-translate?style=flat-square) | ✅ 直接可用 | 小虎视频翻译 — 一句话将外语视频自动配上中文字幕。下载/转写/翻译/润色/烧录一条龙，全程本地运行，转写零 API 费用。 |
 | [YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) | ![](https://img.shields.io/github/stars/liuzhao1225/YouDub-webui?style=flat-square) | 开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。 |
+| [hotclip](https://github.com/xixihhhh/hotclip) | ![](https://img.shields.io/github/stars/xixihhhh/hotclip?style=flat-square) | 免费开源的 AI 剪辑 / 直播切片工具:长视频、直播回放、播客一键切成爆款竖屏短视频——AI 找高光金句、自动加字幕、横屏转竖屏,本地运行无水印不上传 | Free open-source Opus Clip alternative, 100% local: AI clips long videos & livestream VODs into viral 9:16 shorts. No ... |
 
 ## AI 短剧生成
 
