@@ -103,6 +103,7 @@
 | [TikHub API Python SDK](https://github.com/TikHub/TikHub-API-Python-SDK) | ![](https://img.shields.io/github/stars/TikHub/TikHub-API-Python-SDK?style=flat-square) | ⚠️ 部分可用 | TikHub 官方 Python SDK，统一封装抖音、小红书、B站、微博、YouTube 等 16+ 平台数据接口，适合做选题分析、竞品监测、达人研究和 AI 训练数据采集。 |
 | [videodl](https://github.com/CharlesPikachu/videodl) | ![](https://img.shields.io/github/stars/CharlesPikachu/videodl?style=flat-square) | Videodl: A lightweight video downloader written in pure python. (轻量级视频下载器，优先高清无水印，支持抖音，快手，小红书，B站，TikTok，YouTube，FIFA+，优酷，腾讯，爱奇艺，1905电影网，乐视，芒果，咪咕，PPTV，搜狐，Facebook，Twitter，新浪微博，今日头条，网易公开课，全民K歌，CCTV央视... |
 | [parse-video](https://github.com/wujunwei928/parse-video) | ![](https://img.shields.io/github/stars/wujunwei928/parse-video?style=flat-square) | Golang短视频去水印：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频... |
+| [Beav](https://github.com/Jamailar/Beav) | ![](https://img.shields.io/github/stars/Jamailar/Beav?style=flat-square) | 小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作、自媒体版WorkBuddy、小红书爬虫数据采集｜你桌面盒子里的AI小河狸🦫 |
 
 ## 字幕与本地化
 
