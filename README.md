@@ -69,6 +69,7 @@
 | [AnimateDiff](https://github.com/guoyww/AnimateDiff) | ![](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=flat-square) | 将个性化文生图模型转为视频动画 |
 | [doubao-seedance-ttv-itv](https://github.com/wwwzhouhui/doubao-seedance-ttv-itv) | ![](https://img.shields.io/github/stars/wwwzhouhui/doubao-seedance-ttv-itv?style=flat-square) | 豆包 Seedance 1.5 Pro 视频生成工具，支持文生视频和图生视频，提供 Gradio Web UI 和 RESTful API。 |
 | [daihuo-jianshou](https://github.com/xixihhhh/daihuo-jianshou) | ![](https://img.shields.io/github/stars/xixihhhh/daihuo-jianshou?style=flat-square) | AI 电商带货视频生成工具 — 上传商品图自动生成抖音/快手/小红书带货短视频，AI 脚本+生图+合成一条龙，支持 Seedance 2.0 / GPT Image 2 / Kling 3.0 / Veo 3 等模型。 |
+| [video-clipforge](https://github.com/Johnson-Jia/video-clipforge) | ![](https://img.shields.io/github/stars/Johnson-Jia/video-clipforge?style=flat-square) | AI 驱动的短视频制作系统。给它一个想法，它帮你写稿、配音、做画面、出成片。9 阶段 DAG 管线 + 自进化评分，支持每日自动执行。基于 Claude Code + HyperFrames。 |
 
 ## 自媒体运营工具
 
