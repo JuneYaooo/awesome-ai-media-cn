@@ -126,6 +126,7 @@
 | [YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) | ![](https://img.shields.io/github/stars/liuzhao1225/YouDub-webui?style=flat-square) | 开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。 |
 | [hotclip](https://github.com/xixihhhh/hotclip) | ![](https://img.shields.io/github/stars/xixihhhh/hotclip?style=flat-square) | 免费开源的 AI 剪辑 / 直播切片工具:长视频、直播回放、播客一键切成爆款竖屏短视频——AI 找高光金句、自动加字幕、横屏转竖屏,本地运行无水印不上传 | Free open-source Opus Clip alternative, 100% local: AI clips long videos & livestream VODs into viral 9:16 shorts. No ... |
 | [VideoHub](https://github.com/cacity/VideoHub) | ![](https://img.shields.io/github/stars/cacity/VideoHub?style=flat-square) | VideoHub 是一款本地化多平台视频处理与智能剪辑工具，支持 YouTube、抖音/TikTok、Instagram、Bilibili 和 Twitter/X，提供视频下载、Whisper 转写、字幕翻译与润色、多模型 AI 配音、影视解说、故事剪辑、音乐卡点及剧集批量处理，并可通过 Codex、Claude Code 等智能助手以自然语言完成完整工作流。 |
+| [ASMR Dubber](https://github.com/EveningStudy/asmr-dubber) | ![](https://img.shields.io/github/stars/EveningStudy/asmr-dubber?style=flat-square) | ✅ 直接可用 | 日语、英语音视频本地化工具 —— 支持语音识别或字幕导入、中文翻译、音色克隆配音、原声混音、双语字幕和 DLsite 多音轨批量处理 |
 
 ## AI 短剧生成
 
