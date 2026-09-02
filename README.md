@@ -56,6 +56,7 @@
 | [open-director](https://github.com/seme-org/open-director) | ![](https://img.shields.io/github/stars/seme-org/open-director?style=flat-square) | 开源 AI 视频工作室 — 从一句话到成片。支持创意模式（AI 导演全流程自动生成）和批量模式（批量生产短视频）。Open-source AI video studio. |
 | [clipforge](https://github.com/xixihhhh/clipforge) | ![](https://img.shields.io/github/stars/xixihhhh/clipforge?style=flat-square) | ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerc... |
 | [Shopro-AI](https://github.com/wyxpro/Shopro-AI) | ![](https://img.shields.io/github/stars/wyxpro/Shopro-AI?style=flat-square) | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| [meiti-ai](https://github.com/zhuixin8/meiti-ai) | ![](https://img.shields.io/github/stars/zhuixin8/meiti-ai?style=flat-square) | ALQQ · AI 自媒体内容运营平台｜一次创作，图文/动态/视频 一键分发 20+ 平台（抖音/小红书/B站/快手/视频号/头条/百家号/公众号/知乎/微博等）。AI写文·去AI味·热点选题·定时自动发布·多账号矩阵。完全免费，桌面端+网页端。 |
 
 ## AI 文生视频模型
 
