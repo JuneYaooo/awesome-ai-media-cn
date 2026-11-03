@@ -180,6 +180,7 @@
 | [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) | ![](https://img.shields.io/github/stars/kkroening/ffmpeg-python?style=flat-square) | FFmpeg 的 Python 封装 — 视频/音频处理流水线 |
 | [rea-video](https://github.com/JuneYaooo/rea-video) | ![](https://img.shields.io/github/stars/JuneYaooo/rea-video?style=flat-square) | 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot. |
 | [story-fab](https://github.com/Agions/story-fab) | ![](https://img.shields.io/github/stars/Agions/story-fab?style=flat-square) | 开源 AI 视频剪辑工具。长视频自动拆条为爆款短片段，支持 9:16/1:1/16:9 多格式导出，本地 Whisper 字幕，Rust 渲染管线，无需上传。 |
+| [UpRes (upres-cli)](https://github.com/auroracapital/upres-cli) | ![](https://img.shields.io/github/stars/auroracapital/upres-cli?style=flat-square) | AI 图像与视频超分增强工具 — 图像支持最高 8K 分辨率，视频支持 4K，包含 14 个公开模型别名，提供批处理、异步任务轮询、开发者 REST API 以及 MCP 服务器支持。 |
 
 ---
 
