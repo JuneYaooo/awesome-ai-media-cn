@@ -57,6 +57,7 @@
 | [clipforge](https://github.com/xixihhhh/clipforge) | ![](https://img.shields.io/github/stars/xixihhhh/clipforge?style=flat-square) | ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerc... |
 | [Shopro-AI](https://github.com/wyxpro/Shopro-AI) | ![](https://img.shields.io/github/stars/wyxpro/Shopro-AI?style=flat-square) | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
 | [meiti-ai](https://github.com/zhuixin8/meiti-ai) | ![](https://img.shields.io/github/stars/zhuixin8/meiti-ai?style=flat-square) | ALQQ · AI 自媒体内容运营平台｜一次创作，图文/动态/视频 一键分发 20+ 平台（抖音/小红书/B站/快手/视频号/头条/百家号/公众号/知乎/微博等）。AI写文·去AI味·热点选题·定时自动发布·多账号矩阵。完全免费，桌面端+网页端。 |
+| [vidknot](https://github.com/suonian/vidknot) | ![](https://img.shields.io/github/stars/suonian/vidknot?style=flat-square) | VidkNot（影音笔记舱）— 一键从 11+ 自媒体平台（YouTube、B站、抖音、小红书、快手、TikTok、Twitter/X、Instagram、视频号、微博、Vimeo）提取视频笔记：下载音频、双 ASR 交叉校验、LLM 生成结构化笔记，同步到 Obsidian/飞书/Notion/语雀。Video Knowledge, Knotted. |
 
 ## AI 文生视频模型
 
@@ -147,6 +148,7 @@
 | [AI-NovelFlow](https://github.com/qzw881130/AI-NovelFlow) | ![](https://img.shields.io/github/stars/qzw881130/AI-NovelFlow?style=flat-square) | ✅ 直接可用 | 小说转视频平台，覆盖角色/场景/道具解析、分镜生成、配音与视频合成，并支持多语言界面与自定义 ComfyUI 工作流 |
 | [huobao-drama-ai](https://github.com/dav-niu474/huobao-drama-ai) | ![](https://img.shields.io/github/stars/dav-niu474/huobao-drama-ai?style=flat-square) | ⚠️ 部分可用 | AI 短剧创作平台 — 从剧本到成片，一站式 AI 短剧制作工作台。支持 70+ 大模型、图片生成、视频生成(Seedance 2.0)、AI 配音。 |
 | [AIYOU](https://github.com/yubowen123/AIYOU_open-ai-video-drama-generator) | ![](https://img.shields.io/github/stars/yubowen123/AIYOU_open-ai-video-drama-generator?style=flat-square) | ⚠️ 部分可用 | AIYOU — AI 短剧平台，36 天 VibeCoding 构建。自动化工作流：剧本创作 → 角色设计 → 分镜生成 → 视频合成 → 配音字幕，一站式 AI 短剧制作。 |
+| [hongguo-downloader](https://github.com/parallelpan/hongguo-downloader) | ![](https://img.shields.io/github/stars/parallelpan/hongguo-downloader?style=flat-square) | 红果短剧下载工具：红果短剧 / 红果免费短剧 全集下载、批量下载与整剧打包 ZIP，粘贴分享链接即云端处理、按集取件，免安装网页版。Hongguo downloader — short drama downloader for cdrama & duanju: paste a link, fetch every episode online, pay per episode, no inst... |
 | [scene-fab](https://github.com/Agions/scene-fab) | ![](https://img.shields.io/github/stars/Agions/scene-fab?style=flat-square) | ⚠️ 部分可用 | scene-fab — AI 影视解说创作工具，智能拆条、AI 解说生成、一键配音合成。自动识别精彩片段，生成解说文案并合成完整影视解说视频。 |
 
 ## AI 视频分析与笔记
@@ -176,6 +178,7 @@
 |------|-------|------|
 | [MoviePy](https://github.com/Zulko/moviepy) | ![](https://img.shields.io/github/stars/Zulko/moviepy?style=flat-square) | Python 视频编辑库 — 剪切、合成、特效、文字叠加 |
 | [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) | ![](https://img.shields.io/github/stars/kkroening/ffmpeg-python?style=flat-square) | FFmpeg 的 Python 封装 — 视频/音频处理流水线 |
+| [rea-video](https://github.com/JuneYaooo/rea-video) | ![](https://img.shields.io/github/stars/JuneYaooo/rea-video?style=flat-square) | 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot. |
 | [story-fab](https://github.com/Agions/story-fab) | ![](https://img.shields.io/github/stars/Agions/story-fab?style=flat-square) | 开源 AI 视频剪辑工具。长视频自动拆条为爆款短片段，支持 9:16/1:1/16:9 多格式导出，本地 Whisper 字幕，Rust 渲染管线，无需上传。 |
 
 ---
