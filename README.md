@@ -134,6 +134,8 @@
 | [StreamLingo](https://github.com/michael-chow-arch/StreamLingo) | ![](https://img.shields.io/github/stars/michael-chow-arch/StreamLingo?style=flat-square) | YouTube 直播实时 AI 翻译字幕，支持本地 Ollama，英中双向。首次配置，日常双击启动。AI captions for YouTube livestreams with local Ollama. English ↔ Chinese. Windows/NVIDIA preview; setup once, double-click to start. |
 | [vibe-knowledge-video](https://github.com/xiazhuo123456789/vibe-knowledge-video) | ![](https://img.shields.io/github/stars/xiazhuo123456789/vibe-knowledge-video?style=flat-square) | Vibe知识大赏风格 AI 知识视频 Skill — 纯代码生成电影感知识短视频（无配音·双语字幕·合成BGM·历史文献再现），风格规范逆向自 8 条抖音爆款原片（1091 帧逐秒分析） |
 
+| [SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio) | ![](https://img.shields.io/github/stars/OakcoderX/solopup-subtitle-studio?style=flat-square) | ⚠️ 公开预览 | MIT 本地字幕审校，支持 SDH、中英逐屏对照、SRT/ITT 分轨导出；已有双 SRT 审校无需 AI 账号，云端处理可选且可能收费。macOS 已本地验证。 |
+
 ## AI 短剧生成
 
 | 项目 | Stars | 可用性 | 说明 |
