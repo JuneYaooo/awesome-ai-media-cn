@@ -58,6 +58,8 @@
 | [Shopro-AI](https://github.com/wyxpro/Shopro-AI) | ![](https://img.shields.io/github/stars/wyxpro/Shopro-AI?style=flat-square) | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
 | [meiti-ai](https://github.com/zhuixin8/meiti-ai) | ![](https://img.shields.io/github/stars/zhuixin8/meiti-ai?style=flat-square) | ALQQ · AI 自媒体内容运营平台｜一次创作，图文/动态/视频 一键分发 20+ 平台（抖音/小红书/B站/快手/视频号/头条/百家号/公众号/知乎/微博等）。AI写文·去AI味·热点选题·定时自动发布·多账号矩阵。完全免费，桌面端+网页端。 |
 | [vidknot](https://github.com/suonian/vidknot) | ![](https://img.shields.io/github/stars/suonian/vidknot?style=flat-square) | VidkNot（影音笔记舱）— 一键从 11+ 自媒体平台（YouTube、B站、抖音、小红书、快手、TikTok、Twitter/X、Instagram、视频号、微博、Vimeo）提取视频笔记：下载音频、双 ASR 交叉校验、LLM 生成结构化笔记，同步到 Obsidian/飞书/Notion/语雀。Video Knowledge, Knotted. |
+| [multiplatform-downloader](https://github.com/Janusilver/multiplatform-downloader) | ![](https://img.shields.io/github/stars/Janusilver/multiplatform-downloader?style=flat-square) | 多平台无水印下载器：抖音 / 小红书 / 快手 / B站 / YouTube / X (Twitter) / Instagram 一键下载（Python + tkinter GUI；Windows 完整实测，Linux 命令行可用） |
+| [xinli](https://github.com/zhuiguangAI/xinli) | ![](https://img.shields.io/github/stars/zhuiguangAI/xinli?style=flat-square) | AI爆款视频生成系统，抖音直播 无人直播 AI直播 AI直播语音回复，全网支持主流平台：Tiktok/抖音/快手/视频号 /小红书/拼多多/美团/淘宝等。特色功能：一键obs实时去重、音画同步、数字人服务等 |
 
 ## AI 文生视频模型
 
