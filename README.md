@@ -163,6 +163,7 @@
 | [BiliNote](https://github.com/JefferyHcool/BiliNote) | ![](https://img.shields.io/github/stars/JefferyHcool/BiliNote?style=flat-square) | ✅ 直接可用 | AI 视频笔记生成 — B站等平台视频自动提取笔记 |
 | [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) | ![](https://img.shields.io/github/stars/hanshuaikang/AI-Media2Doc?style=flat-square) | ✅ 直接可用 | 一键把音视频转成小红书/公众号/知识笔记/思维导图/总结/字幕，并支持智能截图插图 |
 | [Douyin-full-stack-summarizer](https://github.com/skepty2333/Douyin-full-stack-summarizer) | ![](https://img.shields.io/github/stars/skepty2333/Douyin-full-stack-summarizer?style=flat-square) | ✅ 直接可用 | 将抖音视频转化为结构化的深度学习笔记，并沉淀为可被 MCP 调用的 SQL 知识库，实现视频内容的结构化知识管理。 |
+| [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) | ![](https://img.shields.io/github/stars/tubeagentkit/youtube-transcript-skills?style=flat-square) | 🔑 需 API Key（含免费额度） | 给 Claude Code、Cursor 等 AI Agent 用的 YouTube 字幕技能包 — 约一秒获取带时间戳的字幕文本（支持视频自带的所有字幕语言），可做总结、笔记和频道/播放列表批量提取 |
 
 ## AI 数字人
 
