@@ -137,6 +137,7 @@
 | [2ByteASR](https://github.com/NOTBAD314/2ByteASR) | ![](https://img.shields.io/github/stars/NOTBAD314/2ByteASR?style=flat-square) | 兔白字幕：面向中文游戏实况的本地字幕识别与视频编辑工具，支持校对、说话人分轨与特效字幕。当前提供源码，暂无公开安装包。 |
 | [StreamLingo](https://github.com/michael-chow-arch/StreamLingo) | ![](https://img.shields.io/github/stars/michael-chow-arch/StreamLingo?style=flat-square) | YouTube 直播实时 AI 翻译字幕，支持本地 Ollama，英中双向。首次配置，日常双击启动。AI captions for YouTube livestreams with local Ollama. English ↔ Chinese. Windows/NVIDIA preview; setup once, double-click to start. |
 | [vibe-knowledge-video](https://github.com/xiazhuo123456789/vibe-knowledge-video) | ![](https://img.shields.io/github/stars/xiazhuo123456789/vibe-knowledge-video?style=flat-square) | Vibe知识大赏风格 AI 知识视频 Skill — 纯代码生成电影感知识短视频（无配音·双语字幕·合成BGM·历史文献再现），风格规范逆向自 8 条抖音爆款原片（1091 帧逐秒分析） |
+| [ASMRTranslator-bin](https://github.com/wanasummer/ASMRTranslator-bin) | ![](https://img.shields.io/github/stars/wanasummer/ASMRTranslator-bin?style=flat-square) | 🎧 日文 ASMR / 同人音声 AI 翻译、中文字幕生成与中文配音工具（支持无字幕语音识别打轴、潜意识同传/同声配音、双轨时间轴音频编排与批量导出） | Japanese ASMR & Voice Drama AI Subtitle Translator and Chinese Dubbing Studio for Windows. |
 
 ## AI 短剧生成
 
