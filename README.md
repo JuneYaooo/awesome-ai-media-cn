@@ -98,6 +98,7 @@
 | [Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) | ![](https://img.shields.io/github/stars/fqscfqj/Y2A-Auto?style=flat-square) | ✅ 直接可用 | YouTube 到 AcFun 和 Bilibili 自动化搬运工具，支持 AI 翻译、字幕生成、内容审核、智能监控。 |
 | [MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension) | ![](https://img.shields.io/github/stars/leaperone/MultiPost-Extension?style=flat-square) | ✅ 直接可用 | 浏览器扩展，一键发布内容到多个社媒平台，支持知乎、CSDN、掘金、公众号、小红书、抖音等多渠道同步分发。 |
 | [liying_ai](https://github.com/liying-main/liying_ai) | ![](https://img.shields.io/github/stars/liying-main/liying_ai?style=flat-square) | ⚠️ 部分可用 | 厉影 AI 短视频智能体，深度融合云端算力调度、NLP、TTS、数字人驱动、视频剪辑与多平台分发能力，一键生成短视频。 |
+| [BulkPublish AI Toolkit](https://github.com/azeemkafridi/bulkpublish-ai-toolkit) | ![](https://img.shields.io/github/stars/azeemkafridi/bulkpublish-ai-toolkit?style=flat-square) | ⚠️ 部分可用 | BulkPublish 的开源 MCP 服务器与 Agent Skills（MIT）—— 让 Claude Code、Cursor 等 AI 工具管理 15 个社交网络上的真实社媒账号，起草、定时、发布帖子并查看数据；需 BulkPublish 账号与 API key |
 
 ## 社媒爬虫与竞品分析
 
