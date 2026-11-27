@@ -140,6 +140,8 @@
 | [ASMRTranslator-bin](https://github.com/wanasummer/ASMRTranslator-bin) | ![](https://img.shields.io/github/stars/wanasummer/ASMRTranslator-bin?style=flat-square) | 🎧 日文 ASMR / 同人音声 AI 翻译、中文字幕生成与中文配音工具（支持无字幕语音识别打轴、潜意识同传/同声配音、双轨时间轴音频编排与批量导出） | Japanese ASMR & Voice Drama AI Subtitle Translator and Chinese Dubbing Studio for Windows. |
 | [jav-sub](https://github.com/jaykwok/jav-sub) | ![](https://img.shields.io/github/stars/jaykwok/jav-sub?style=flat-square) | 为日语视频一键生成日文、中文或双语 SRT 字幕。默认内置本地翻译（Hy-MT3-7B Q4 + CUDA llama.cpp）开箱即用，支持 Qwen3-ASR 识别、字词级时间轴对齐、OpenAI 兼容 API 与在线一键升级，适用于 Windows + NVIDIA 显卡。 |
 
+| [SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio) | ![](https://img.shields.io/github/stars/OakcoderX/solopup-subtitle-studio?style=flat-square) | ⚠️ 公开预览 | MIT 本地字幕审校，支持 SDH、中英逐屏对照、SRT/ITT 分轨导出；已有双 SRT 审校无需 AI 账号，云端处理可选且可能收费。macOS 已本地验证。 |
+
 ## AI 短剧生成
 
 | 项目 | Stars | 可用性 | 说明 |
