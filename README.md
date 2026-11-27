@@ -138,6 +138,7 @@
 | [StreamLingo](https://github.com/michael-chow-arch/StreamLingo) | ![](https://img.shields.io/github/stars/michael-chow-arch/StreamLingo?style=flat-square) | YouTube 直播实时 AI 翻译字幕，支持本地 Ollama，英中双向。首次配置，日常双击启动。AI captions for YouTube livestreams with local Ollama. English ↔ Chinese. Windows/NVIDIA preview; setup once, double-click to start. |
 | [vibe-knowledge-video](https://github.com/xiazhuo123456789/vibe-knowledge-video) | ![](https://img.shields.io/github/stars/xiazhuo123456789/vibe-knowledge-video?style=flat-square) | Vibe知识大赏风格 AI 知识视频 Skill — 纯代码生成电影感知识短视频（无配音·双语字幕·合成BGM·历史文献再现），风格规范逆向自 8 条抖音爆款原片（1091 帧逐秒分析） |
 | [ASMRTranslator-bin](https://github.com/wanasummer/ASMRTranslator-bin) | ![](https://img.shields.io/github/stars/wanasummer/ASMRTranslator-bin?style=flat-square) | 🎧 日文 ASMR / 同人音声 AI 翻译、中文字幕生成与中文配音工具（支持无字幕语音识别打轴、潜意识同传/同声配音、双轨时间轴音频编排与批量导出） | Japanese ASMR & Voice Drama AI Subtitle Translator and Chinese Dubbing Studio for Windows. |
+| [jav-sub](https://github.com/jaykwok/jav-sub) | ![](https://img.shields.io/github/stars/jaykwok/jav-sub?style=flat-square) | 为日语视频一键生成日文、中文或双语 SRT 字幕。默认内置本地翻译（Hy-MT3-7B Q4 + CUDA llama.cpp）开箱即用，支持 Qwen3-ASR 识别、字词级时间轴对齐、OpenAI 兼容 API 与在线一键升级，适用于 Windows + NVIDIA 显卡。 |
 
 ## AI 短剧生成
 
